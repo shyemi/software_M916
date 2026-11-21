@@ -3,7 +3,7 @@ Redragon M916 Pro 4K - Software de configuracion para Linux (Wine)
 
 Este paquete trae el software ya extraido y un script que lo instala en
 cualquier Linux x86_64 con Wine. No hace falta ejecutar el instalador .exe
-original ni usar innoextract.
+original ni usar innoextract. Además, sí se puede cambiar el idioma a inglés dentro del programa.
 
 REQUISITOS
 ----------
