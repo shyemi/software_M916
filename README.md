@@ -16,18 +16,23 @@ REQUISITOS
 - Mouse conectado por el RECEPTOR USB 4K o por CABLE USB-C.
   Por Bluetooth el software NO detecta el mouse.
 
-INSTALACION
------------
+## INSTALACIÓN
+
 1. Descomprime el paquete:
-     tar -xzf Redragon_M916_Pro_4K_Wine.tar.gz
-     cd Redragon_M916_Pro_4K_Wine
+```bash
+tar -xzf Redragon_M916_Pro_4K_Wine.tar.gz
+cd Redragon_M916_Pro_4K_Wine
+```
 
 2. Ejecuta:
-     ./install.sh
+```bash
+./install.sh
+```
 
 3. Cuando termine, conecta el receptor 4K o el cable y abre:
-     - Menu de aplicaciones -> Redragon M916 Pro 4K
-     - o en terminal: redragon-mouse
+* Menú de aplicaciones -> **Redragon M916 Pro 4K**
+* O en terminal: `redragon-mouse`
+
 
 QUE HACE install.sh
 -------------------
