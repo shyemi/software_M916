@@ -85,8 +85,11 @@ fc-cache -f
     ejecutalo desde la sesion grafica, no por SSH.
 
 - El receptor no aparece:
-    verifica con: lsusb | grep 3554
-    Debe salir "3554:f54f ``Compx 2.4G Wireless Receiver"`` (o f54d en modo cable).
+    verifica con:
+```bash
+lsusb | grep 3554
+```
+    Debe salir ``"3554:f54f Compx 2.4G Wireless Receiver"(o f54d en modo cable).``
 
 DESINSTALAR
 -----------
