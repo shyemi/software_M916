@@ -33,7 +33,7 @@ cd Redragon_M916_Pro_4K_Wine
 * Menú de aplicaciones -> **Redragon M916 Pro 4K**
 * O en terminal:
 ```bash
-`redragon-mouse`
+redragon-mouse
 ```
 
 QUE HACE install.sh
