@@ -31,7 +31,8 @@ cd Redragon_M916_Pro_4K_Wine
 
 3. Cuando termine, conecta el receptor 4K o el cable y abre:
 * Menú de aplicaciones -> **Redragon M916 Pro 4K**
-* O en terminal:
+
+s* O en terminal:
 ```bash
 redragon-mouse
 ```
