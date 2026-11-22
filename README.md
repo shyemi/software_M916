@@ -57,10 +57,28 @@ SOLUCION DE PROBLEMAS
 
 - Se ven cuadros en vez de texto chino:
     falta una fuente CJK. Instala:
-      Arch:          sudo pacman -S noto-fonts-cjk
-      Debian/Ubuntu: sudo apt install fonts-noto-cjk
-      Fedora:        sudo dnf install google-noto-sans-cjk-fonts
-    Luego: fc-cache -f
+      Arch:
+
+```bash
+sudo pacman -S noto-fonts-cjk
+```
+Debian/Ubuntu: 
+      
+```bash
+sudo apt install fonts-noto-cjk
+```
+
+Fedora:        
+
+```bash
+sudo dnf install google-noto-sans-cjk-fonts
+```
+
+Luego: 
+
+```bash
+fc-cache -f
+```
 
 - No abre ninguna ventana:
     ejecutalo desde la sesion grafica, no por SSH.
