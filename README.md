@@ -57,7 +57,8 @@ SOLUCION DE PROBLEMAS
 
 - Se ven cuadros en vez de texto chino:
     falta una fuente CJK. Instala:
-      Arch:
+  
+Arch:
 
 ```bash
 sudo pacman -S noto-fonts-cjk
