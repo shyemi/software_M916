@@ -101,4 +101,4 @@ DESINSTALAR
 NOTA
 ----
 La interfaz del software viene en chino; es la unica que trae el instalador
-original de Redragon. El script instala una fuente CJK para que se lea bien.
+original de `Redragon`. El `script` instala una fuente CJK para que se lea bien.
