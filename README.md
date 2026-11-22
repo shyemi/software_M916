@@ -31,8 +31,10 @@ cd Redragon_M916_Pro_4K_Wine
 
 3. Cuando termine, conecta el receptor 4K o el cable y abre:
 * Menú de aplicaciones -> **Redragon M916 Pro 4K**
-* O en terminal: `redragon-mouse`
-
+* O en terminal:
+```bash
+`redragon-mouse`
+```
 
 QUE HACE install.sh
 -------------------
@@ -86,10 +88,12 @@ fc-cache -f
 
 - El receptor no aparece:
     verifica con:
+  
 ```bash
 lsusb | grep 3554
 ```
-    Debe salir ``"3554:f54f Compx 2.4G Wireless Receiver"(o f54d en modo cable).``
+
+Debe salir ``"3554:f54f Compx 2.4G Wireless Receiver"(o f54d en modo cable).``
 
 DESINSTALAR
 -----------
