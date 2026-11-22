@@ -71,13 +71,14 @@ SOLUCION DE PROBLEMAS
 
 DESINSTALAR
 -----------
+```bash
   rm -rf ~/.local/share/redragon-m916
   rm -rf ~/.local/share/wineprefixes/redragon-m916
   rm -f ~/.local/bin/redragon-mouse
   rm -f ~/.local/share/applications/redragon-mouse.desktop
   sudo rm -f /etc/udev/rules.d/99-redragon-m916.rules
   sudo udevadm control --reload-rules
-
+```
 NOTA
 ----
 La interfaz del software viene en chino; es la unica que trae el instalador
