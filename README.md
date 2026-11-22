@@ -86,7 +86,7 @@ fc-cache -f
 
 - El receptor no aparece:
     verifica con: lsusb | grep 3554
-    Debe salir "3554:f54f Compx 2.4G Wireless Receiver" (o f54d en modo cable).
+    Debe salir "3554:f54f ``Compx 2.4G Wireless Receiver"`` (o f54d en modo cable).
 
 DESINSTALAR
 -----------
@@ -100,5 +100,5 @@ DESINSTALAR
 ```
 NOTA
 ----
-La interfaz del software viene en chino; es la unica que trae el instalador
+La interfaz del `software` viene en chino; es la unica que trae el instalador
 original de `Redragon`. El `script` instala una fuente CJK para que se lea bien.
