@@ -1,4 +1,4 @@
-Redragon M916 Pro 4K - Software de configuracion para Linux (Wine)
+Redragon M916 Pro 4K - Software de configuracion para Linux (usando Wine)
 ==================================================================
 
 ![Software Redragon M916 Pro 4K](Software_GUI.png)
